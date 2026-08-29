@@ -11,6 +11,8 @@ al.](https://www.nature.com/articles/s41586-025-09686-5) and the corresponding
 [CZ CELLxGENE source collection](https://cellxgene.cziscience.com/collections/60a2676d-9f37-46cc-9b02-c7370a53be9c)
 from the [Allen Institute for Immunology](https://alleninstitute.org/immunology).
 
+Currently hosted on [streamlit.app](https://immunobiology-of-aging-polygenic-app.streamlit.app/).
+
 ## Run locally
 
 ```bash
